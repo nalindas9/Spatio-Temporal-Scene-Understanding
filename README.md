@@ -1,2 +1,3 @@
-# Instance-Segmentation-Yolov8
-Instance Segmentation on Custom Dataset using YOLOv8
+# UNet-Semantic-Segmentation
+
+Semantic Segmentation utilizing the UNet Architecture
