@@ -1,3 +1,1 @@
-# UNet-Semantic-Segmentation
-
-Semantic Segmentation utilizing the UNet Architecture
+# Spatio-Temporal-Scene-Understanding
